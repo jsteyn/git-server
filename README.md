@@ -4,5 +4,6 @@ Recipe to setup a git server on your Raspberry Pi. This is a part of the [Carpen
 
 * You'll need a Raspberry Pi 4 to setup Gitlab, with ssh setup
 * Login to the Raspberry Pi https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
+(If ssh is not running, and it says "connection refused", run this on the Pi `systemctl start ssh`
 * Then follow the instructions here
 https://about.gitlab.com/install/#raspberry-pi-os
