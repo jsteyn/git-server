@@ -15,5 +15,5 @@ connected to the Internet.
 * Then follow the instructions here (estimated time ~5-10min): 
 https://docs.gitea.io/en-us/install-from-binary/
 * Get the IP address of the Pi using this command
-    hostname -I
-* Connect to http://localhost:3000/ on your Pi or http://IPADDRESS-HERE:3000/
+    ```hostname -I```
+* Connect to `http://localhost:3000/` on your Pi or `http://IPADDRESS-HERE:3000/`
